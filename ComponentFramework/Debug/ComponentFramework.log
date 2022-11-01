@@ -1,0 +1,44 @@
+﻿  Camera.cpp
+  Debug.cpp
+  GameObject.cpp
+  Noise.cpp
+  Particles.cpp
+  Physics.cpp
+  PhysicsObject.cpp
+  Randomizer.cpp
+  Scene0.cpp
+  Scene0_Adv.cpp
+  Scene1.cpp
+C:\GameDev\MathLibrary\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDev\MathLibrary\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDev\MathLibrary\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Scene1_Adv.cpp
+C:\GameDev\MathLibrary\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDev\MathLibrary\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDev\MathLibrary\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Scene2.cpp
+  Scene2_Adv.cpp
+  Scene3.cpp
+  Scene4.cpp
+  Scene4_Adv.cpp
+  Scene5.cpp
+  Scene5_Adv.cpp
+  Scene6.cpp
+  Generating Code...
+  Compiling...
+  SceneManager.cpp
+  Main.cpp
+  Mesh.cpp
+  ObjLoader.cpp
+  Shader.cpp
+  SkyBox.cpp
+  Texture.cpp
+  Timer.cpp
+  Trackball.cpp
+C:\GameDev\MathLibrary\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDev\MathLibrary\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GameDev\MathLibrary\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Studies\Framework complete\ComponentFramework23\ComponentFramework\Trackball.cpp(55,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Window.cpp
+  Generating Code...
+  ComponentFramework.vcxproj -> D:\Studies\Framework complete\ComponentFramework23\Debug\ComponentFramework.exe

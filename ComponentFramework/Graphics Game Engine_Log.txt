@@ -1,0 +1,29 @@
+[INFO]: Starting the GameSceneManager
+[INFO]: OpenGL version: 4.6.0 NVIDIA 522.30
+[INFO]: Graphics card vendor NVIDIA Corporation
+[INFO]: Graphics card name NVIDIA GeForce GTX 1050/PCIe/SSE2
+[INFO]: GLSL Version 4.60 NVIDIA
+[INFO]: Created Scene0: 
+[INFO]: Created Scene1: 
+[INFO]: Created Scene0: 
+[INFO]: Created Scene3: 
+[INFO]: Deleted camera in Scene3: 
+[INFO]: Creating Scene4: 
+[INFO]: Creating Scene5: 
+[WARNING]: normalMatrix :No such uniform name in file: D:\Studies\Framework complete\ComponentFramework23\ComponentFramework\Shader.cpp on line: 141
+[INFO]: Created Scene0: 
+[INFO]: Created Scene1: 
+[INFO]: Created Scene0: 
+[INFO]: Created Scene0: 
+[INFO]: Created Scene3: 
+[INFO]: Deleted camera in Scene3: 
+[INFO]: Created Scene3: 
+[INFO]: Deleted camera in Scene3: 
+[INFO]: Creating Scene4: 
+[INFO]: Creating Scene5_Adv: 
+[INFO]: Creating Scene6: 
+[INFO]: Creating Scene6: 
+[INFO]: Creating Scene5: 
+[INFO]: Creating Scene6: 
+[INFO]: Creating Scene5: 
+[INFO]: Creating Scene4: 
